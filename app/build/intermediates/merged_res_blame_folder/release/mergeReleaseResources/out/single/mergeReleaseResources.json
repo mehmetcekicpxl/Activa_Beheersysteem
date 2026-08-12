@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_dialog_add_bill.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\dialog_add_bill.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\drawable_ic_trend_up.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\drawable\\ic_trend_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_dialog_add_transaction.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\dialog_add_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_item_transaction.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_fragment_assets.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\fragment_assets.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_fragment_debts.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\fragment_debts.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-release-45:/layout_activity_splash.xml.flat",
+        "source": "com.example.varliktakip.app-main-46:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_fragment_asset_detail.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\fragment_asset_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_dialog_add_asset.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\dialog_add_asset.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_fragment_bills.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\fragment_bills.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_item_bill.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\item_bill.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_dialog_add_debt.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\dialog_add_debt.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\drawable_ic_trend_down.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\drawable\\ic_trend_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\drawable_bg_rounded_label.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\drawable\\bg_rounded_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_item_debt.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\item_debt.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-release-45:\\layout_item_asset.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\item_asset.xml"
+    }
+]

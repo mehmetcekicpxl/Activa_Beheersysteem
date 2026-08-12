@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/drawable_bg_rounded_label.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/drawable/bg_rounded_label.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_fragment_dashboard.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_fragment_assets.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/fragment_assets.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_item_asset.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/item_asset.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_item_bill.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/item_bill.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/drawable_logo.jpg.flat",
+        "source": "com.example.varliktakip.app-main-47:/drawable/logo.jpg"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/drawable_ic_trend_up.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/drawable/ic_trend_up.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_dialog_add_debt.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/dialog_add_debt.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_item_debt.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/item_debt.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_fragment_asset_detail.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/fragment_asset_detail.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/xml_backup_rules.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/drawable_ic_trend_down.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/drawable/ic_trend_down.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_dialog_add_bill.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/dialog_add_bill.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_activity_main.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_item_transaction.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/item_transaction.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_fragment_debts.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/fragment_debts.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_activity_splash.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_dialog_add_asset.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/dialog_add_asset.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_dialog_add_transaction.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/dialog_add_transaction.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-debug-45:/layout_fragment_bills.xml.flat",
+        "source": "com.example.varliktakip.app-main-47:/layout/fragment_bills.xml"
+    }
+]

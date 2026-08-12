@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/navigation_assets"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Assets" />
+    <item
+        android:id="@+id/navigation_debts"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="Debts" />
+    <item
+        android:id="@+id/navigation_bills"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="Bills" />
+</menu>

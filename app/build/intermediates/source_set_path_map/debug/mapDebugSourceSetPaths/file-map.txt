@@ -1,0 +1,48 @@
+com.example.varliktakip.app-recyclerview-1.1.0-0 C:\Users\12304364\.gradle\caches\transforms-3\0265be283935dd00a88164e332348e3b\transformed\recyclerview-1.1.0\res
+com.example.varliktakip.app-jetified-savedstate-1.2.1-1 C:\Users\12304364\.gradle\caches\transforms-3\0bfd54815e813177c2b8f778140c53bd\transformed\jetified-savedstate-1.2.1\res
+com.example.varliktakip.app-jetified-savedstate-ktx-1.2.1-2 C:\Users\12304364\.gradle\caches\transforms-3\151d857a3e2bd31ebef6c8dd1b053f71\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.varliktakip.app-jetified-room-ktx-2.6.1-3 C:\Users\12304364\.gradle\caches\transforms-3\186a63494b06d93e999b224a75ea5ecd\transformed\jetified-room-ktx-2.6.1\res
+com.example.varliktakip.app-jetified-lifecycle-process-2.6.2-4 C:\Users\12304364\.gradle\caches\transforms-3\190eee150331b2451393bd380d636dce\transformed\jetified-lifecycle-process-2.6.2\res
+com.example.varliktakip.app-core-runtime-2.2.0-5 C:\Users\12304364\.gradle\caches\transforms-3\23aa43439fb8e6b12565eefad4575fad\transformed\core-runtime-2.2.0\res
+com.example.varliktakip.app-core-1.12.0-6 C:\Users\12304364\.gradle\caches\transforms-3\2461d85adcda48f369cfc9c717dca963\transformed\core-1.12.0\res
+com.example.varliktakip.app-lifecycle-livedata-core-2.6.2-7 C:\Users\12304364\.gradle\caches\transforms-3\380699a379031af237a601b65b31593a\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.varliktakip.app-jetified-annotation-experimental-1.3.0-8 C:\Users\12304364\.gradle\caches\transforms-3\39533a9fa5404baa4249ba5c5e88a823\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.varliktakip.app-work-runtime-2.9.0-9 C:\Users\12304364\.gradle\caches\transforms-3\485b94201c8b93e63fba1c9b42f58f35\transformed\work-runtime-2.9.0\res
+com.example.varliktakip.app-cardview-1.0.0-10 C:\Users\12304364\.gradle\caches\transforms-3\51286dfc0e6f8d1fb50c7b62a215175b\transformed\cardview-1.0.0\res
+com.example.varliktakip.app-lifecycle-livedata-2.6.2-11 C:\Users\12304364\.gradle\caches\transforms-3\6860476cfdd56fac7c9af09682047a07\transformed\lifecycle-livedata-2.6.2\res
+com.example.varliktakip.app-jetified-activity-ktx-1.8.0-12 C:\Users\12304364\.gradle\caches\transforms-3\6e3c6327bbc3e29b7aeb19dce8979d49\transformed\jetified-activity-ktx-1.8.0\res
+com.example.varliktakip.app-fragment-1.6.2-13 C:\Users\12304364\.gradle\caches\transforms-3\730cbc3397fe731d28d3e27dcba77207\transformed\fragment-1.6.2\res
+com.example.varliktakip.app-lifecycle-viewmodel-2.6.2-14 C:\Users\12304364\.gradle\caches\transforms-3\7d20339aed11046452a98566458c63ea\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.varliktakip.app-sqlite-2.4.0-15 C:\Users\12304364\.gradle\caches\transforms-3\80f8763ae3cf6dc72155cd94ecb6a9b7\transformed\sqlite-2.4.0\res
+com.example.varliktakip.app-drawerlayout-1.1.1-16 C:\Users\12304364\.gradle\caches\transforms-3\82484cdb95c452a66e60e719b1ff8165\transformed\drawerlayout-1.1.1\res
+com.example.varliktakip.app-material-1.11.0-17 C:\Users\12304364\.gradle\caches\transforms-3\85e26164fe20a3e9938174baf1e094b9\transformed\material-1.11.0\res
+com.example.varliktakip.app-work-runtime-ktx-2.9.0-18 C:\Users\12304364\.gradle\caches\transforms-3\885f9279d4e00e6adb25883137071232\transformed\work-runtime-ktx-2.9.0\res
+com.example.varliktakip.app-jetified-core-ktx-1.12.0-19 C:\Users\12304364\.gradle\caches\transforms-3\8e3d19f1a5d5ab2212a35063793a3f50\transformed\jetified-core-ktx-1.12.0\res
+com.example.varliktakip.app-jetified-viewpager2-1.0.0-20 C:\Users\12304364\.gradle\caches\transforms-3\8f65030f527f764303dd8672532d82bb\transformed\jetified-viewpager2-1.0.0\res
+com.example.varliktakip.app-jetified-activity-1.8.0-21 C:\Users\12304364\.gradle\caches\transforms-3\93fe5c579b746cd6e656c28e1988de8d\transformed\jetified-activity-1.8.0\res
+com.example.varliktakip.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-22 C:\Users\12304364\.gradle\caches\transforms-3\9b39fec365bac2591d139681f7f4dc82\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.varliktakip.app-jetified-lifecycle-service-2.6.2-23 C:\Users\12304364\.gradle\caches\transforms-3\9e6ba98bf0e08845203546e6e168daa3\transformed\jetified-lifecycle-service-2.6.2\res
+com.example.varliktakip.app-jetified-startup-runtime-1.1.1-24 C:\Users\12304364\.gradle\caches\transforms-3\a25fe61fb8faab2670d2e96defd08010\transformed\jetified-startup-runtime-1.1.1\res
+com.example.varliktakip.app-jetified-lifecycle-runtime-ktx-2.6.2-25 C:\Users\12304364\.gradle\caches\transforms-3\a830d99b5ce470f66c11501f3d7bf4a8\transformed\jetified-lifecycle-runtime-ktx-2.6.2\res
+com.example.varliktakip.app-jetified-emoji2-1.2.0-26 C:\Users\12304364\.gradle\caches\transforms-3\a83bc75f89a5c85039aa070d7ff8b8c8\transformed\jetified-emoji2-1.2.0\res
+com.example.varliktakip.app-transition-1.2.0-27 C:\Users\12304364\.gradle\caches\transforms-3\abd751ab5ba46d09f9a9531c809d1c90\transformed\transition-1.2.0\res
+com.example.varliktakip.app-jetified-lifecycle-livedata-ktx-2.6.2-28 C:\Users\12304364\.gradle\caches\transforms-3\b02b9387c51c1c8680412ae42a8bc65c\transformed\jetified-lifecycle-livedata-ktx-2.6.2\res
+com.example.varliktakip.app-coordinatorlayout-1.1.0-29 C:\Users\12304364\.gradle\caches\transforms-3\b23c2d0036a9e27e9f35b29721ab38cc\transformed\coordinatorlayout-1.1.0\res
+com.example.varliktakip.app-jetified-emoji2-views-helper-1.2.0-30 C:\Users\12304364\.gradle\caches\transforms-3\bfa4abb5fd5cd0e9809c5a1f0c9bd0f8\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.varliktakip.app-jetified-fragment-ktx-1.6.2-31 C:\Users\12304364\.gradle\caches\transforms-3\c7411686fc0c9a6fd8e3018a850c41c0\transformed\jetified-fragment-ktx-1.6.2\res
+com.example.varliktakip.app-jetified-appcompat-resources-1.6.1-32 C:\Users\12304364\.gradle\caches\transforms-3\d01f03de334d6efc3d06bfe47c30097e\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.varliktakip.app-appcompat-1.6.1-33 C:\Users\12304364\.gradle\caches\transforms-3\daa653183a82ef426e4a35d1612318a8\transformed\appcompat-1.6.1\res
+com.example.varliktakip.app-constraintlayout-2.1.4-34 C:\Users\12304364\.gradle\caches\transforms-3\e457d3789099b363b4e3717adc6d89f6\transformed\constraintlayout-2.1.4\res
+com.example.varliktakip.app-jetified-profileinstaller-1.3.0-35 C:\Users\12304364\.gradle\caches\transforms-3\eb5343ade16fcf4a7c9ee929056de569\transformed\jetified-profileinstaller-1.3.0\res
+com.example.varliktakip.app-jetified-lifecycle-livedata-core-ktx-2.6.2-36 C:\Users\12304364\.gradle\caches\transforms-3\eff2a3576a08d23e2ce139bec9aaf981\transformed\jetified-lifecycle-livedata-core-ktx-2.6.2\res
+com.example.varliktakip.app-sqlite-framework-2.4.0-37 C:\Users\12304364\.gradle\caches\transforms-3\f0d0e3db14018566df402b687b3ace72\transformed\sqlite-framework-2.4.0\res
+com.example.varliktakip.app-lifecycle-runtime-2.6.2-38 C:\Users\12304364\.gradle\caches\transforms-3\f24269ccfd746e41ce8f0dcab3fd7af6\transformed\lifecycle-runtime-2.6.2\res
+com.example.varliktakip.app-room-runtime-2.6.1-39 C:\Users\12304364\.gradle\caches\transforms-3\f2e6b5207340330c2cc66ae4e0a0fb32\transformed\room-runtime-2.6.1\res
+com.example.varliktakip.app-jetified-lifecycle-viewmodel-ktx-2.6.2-40 C:\Users\12304364\.gradle\caches\transforms-3\f4c4d795bc21c7c7fc3540c3a85fd144\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\res
+com.example.varliktakip.app-pngs-41 C:\Users\12304364\source\repos\Individueel_Projects\Varlik Takip Uygulamasi\app\build\generated\res\pngs\debug
+com.example.varliktakip.app-resValues-42 C:\Users\12304364\source\repos\Individueel_Projects\Varlik Takip Uygulamasi\app\build\generated\res\resValues\debug
+com.example.varliktakip.app-packageDebugResources-43 C:\Users\12304364\source\repos\Individueel_Projects\Varlik Takip Uygulamasi\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.varliktakip.app-packageDebugResources-44 C:\Users\12304364\source\repos\Individueel_Projects\Varlik Takip Uygulamasi\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.varliktakip.app-debug-45 C:\Users\12304364\source\repos\Individueel_Projects\Varlik Takip Uygulamasi\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.varliktakip.app-debug-46 C:\Users\12304364\source\repos\Individueel_Projects\Varlik Takip Uygulamasi\app\src\debug\res
+com.example.varliktakip.app-main-47 C:\Users\12304364\source\repos\Individueel_Projects\Varlik Takip Uygulamasi\app\src\main\res

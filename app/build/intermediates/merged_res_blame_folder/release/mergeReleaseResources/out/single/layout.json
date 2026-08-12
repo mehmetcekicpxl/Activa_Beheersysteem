@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\item_bill.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\item_bill.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\fragment_bills.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\fragment_bills.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\dialog_add_asset.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\dialog_add_asset.xml"
+    },
+    {
+        "merged": "com.example.varliktakip.app-mergeReleaseResources-44:/layout/activity_splash.xml",
+        "source": "com.example.varliktakip.app-main-46:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\item_debt.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\item_debt.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\item_asset.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\item_asset.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\dialog_add_debt.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\dialog_add_debt.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\fragment_assets.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\fragment_assets.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\dialog_add_bill.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\dialog_add_bill.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\item_transaction.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\dialog_add_transaction.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\dialog_add_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\fragment_debts.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\fragment_debts.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\fragment_asset_detail.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\fragment_asset_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-mergeReleaseResources-44:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.varliktakip.app-main-46:\\layout\\fragment_dashboard.xml"
+    }
+]

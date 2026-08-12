@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_dark">#0D1B2A</color>
+    <color name="blue_slate">#1B263B</color>
+    <color name="colorOnPrimary">@color/white</color>
+    <color name="colorOnSecondary">@color/blue_dark</color>
+    <color name="colorPrimary">@color/blue_dark</color>
+    <color name="colorPrimaryVariant">@color/blue_slate</color>
+    <color name="colorSecondary">@color/gold_primary</color>
+    <color name="colorSecondaryVariant">@color/gold_dark</color>
+    <color name="gold_dark">#C5A000</color>
+    <color name="gold_primary">#FFD700</color>
+    <color name="gray_light">#E0E1DD</color>
+    <color name="green_profit">#4CAF50</color>
+    <color name="red_loss">#F44336</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">MyLedgari</string>
+    <style name="Theme.VarlikTakip" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+        <item name="android:windowBackground">@color/gray_light</item>
+        
+    </style>
+</resources>
