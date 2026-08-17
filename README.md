@@ -1,18 +1,18 @@
 ﻿# Activa Beheersysteem (Asset Tracking)
 
-> **Een krachtige applicatie voor het efficiÃ«nt bijhouden, registreren en beheren van bedrijfsmiddelen en inventaris.**
+> **Een krachtige applicatie voor het efficiënt bijhouden, registreren en beheren van bedrijfsmiddelen en inventaris.**
 
 Deze repository bevat de broncode en bijbehorende documentatie voor het **Activa Beheersysteem (Asset Tracking)** project. Dit project is ontwikkeld met een focus op gebruiksvriendelijkheid, schaalbaarheid en schone code.
 
-## âœ¨ Functionaliteiten
+## Functionaliteiten
 - Gedetailleerde registratie van alle bedrijfsmiddelen
 - Real-time inzicht in de locatie en status van inventaris
 - Gebruiksvriendelijk dashboard voor snel beheer
 
-## ðŸ› ï¸ Gebruikte TechnologieÃ«n
+## Gebruikte Technologieën
 - **Android (Java/Kotlin)**
 
-## ðŸ“¸ Screenshots
+## Screenshots
 *(Voeg later screenshots toe in de screenshots map en link ze hier)*
 
 `html
@@ -20,7 +20,7 @@ Deze repository bevat de broncode en bijbehorende documentatie voor het **Activa
 <!-- <img src="./screenshots/app_home.png" alt="Home Screen" width="300"/> -->
 `
 
-## ðŸš€ Installatie & Gebruik
+## Installatie & Gebruik
 Open in Android Studio om de code te bekijken, Gradle te synchroniseren en te compileren.
 
 ---
