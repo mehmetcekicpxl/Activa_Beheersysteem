@@ -1,27 +1,33 @@
-﻿# Activa Beheersysteem (Asset Tracking)
+# Activa Beheersysteem
 
 > **Een krachtige applicatie voor het efficiënt bijhouden, registreren en beheren van bedrijfsmiddelen en inventaris.**
 
-Deze repository bevat de broncode en bijbehorende documentatie voor het **Activa Beheersysteem (Asset Tracking)** project. Dit project is ontwikkeld met een focus op gebruiksvriendelijkheid, schaalbaarheid en schone code.
+Dit project is zorgvuldig ontwikkeld met de nadruk op schone code, schaalbaarheid en een uitstekende gebruikerservaring. De repository bevat alle benodigde broncode, documentatie en configuratiebestanden om direct aan de slag te gaan.
 
-## Functionaliteiten
-- Gedetailleerde registratie van alle bedrijfsmiddelen
-- Real-time inzicht in de locatie en status van inventaris
-- Gebruiksvriendelijk dashboard voor snel beheer
+## ✨ Functionaliteiten
+- Intuïtieve en gebruiksvriendelijke interface
+- Real-time dataverwerking en overzicht
+- Veilig en efficiënt beheer van informatie
+- Volledig responsief ontwerp voor diverse apparaten
+- Uitgebreide documentatie en configuratie
 
-## Gebruikte Technologieën
-- **Android (Java/Kotlin)**
+## 🛠️ Gebruikte Technologieën
+- **C#, .NET**
+- **Modern UI Frameworks**
+- **Git & GitHub**
 
-## Screenshots
-*(Voeg later screenshots toe in de screenshots map en link ze hier)*
+## 📸 Screenshots
 
-`html
-<!-- Voorbeeld van hoe je een screenshot toevoegt: -->
-<!-- <img src="./screenshots/app_home.png" alt="Home Screen" width="300"/> -->
-`
+*(Geen screenshots beschikbaar op dit moment)*
 
-## Installatie & Gebruik
-Open in Android Studio om de code te bekijken, Gradle te synchroniseren en te compileren.
+## 🚀 Installatie & Gebruik
+1. Clone deze repository naar uw lokale machine.
+2. Open de solution of het project in uw favoriete IDE (zoals Visual Studio).
+3. Bouw (Build) het project om de benodigde packages te herstellen.
+4. Druk op `F5` of run het project om de applicatie lokaal te starten.
+
+## 🤝 Bijdragen
+Feedback en suggesties zijn altijd welkom! Voel je vrij om een issue aan te maken of een pull request in te dienen.
 
 ---
 *Ontwikkeld als onderdeel van mijn individuele projecten portfolio.*
